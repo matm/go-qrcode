@@ -6,4 +6,5 @@ use (
 	./writer/compressed
 	./writer/standard
 	./writer/terminal
+	./writer/beautifier
 )
